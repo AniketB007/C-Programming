@@ -9,6 +9,6 @@ void main()
 	scanf("%f",&g);
 
 	weight= m*g;
-	printf(" The force applied = %f",weight);
+	printf(" The weight  = %f",weight);
 	getch();
 }
