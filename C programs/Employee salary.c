@@ -11,5 +11,5 @@ int main()
 	printf("Enter the amount received per hour");
 	scanf("%d",&amount);
 	sal=wh*amount;
-	printf("The sallary of Employee for a month is %f",sal);
+	printf("The sallary of Employee for a month is  .2%f",sal);
 }
