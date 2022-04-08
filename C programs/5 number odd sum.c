@@ -2,7 +2,7 @@
 #include<conio.h>
 int main()
 {
-	int n1,n2,n3,n4,n5,ores,eres;
+	int n1,n2,n3,n4,n5,ores=0,eres=0;
 	printf("Enter the 1st number");
 	scanf("%d",&n1);
 	printf("Enter the 2nd number");
