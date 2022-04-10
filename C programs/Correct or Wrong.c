@@ -22,6 +22,6 @@ if((r>0)&&(s>0)&&(p%2==0)&&(q>r)&&(s>p)&&((r+s)==(p=q)))
 }
 else
 {
-	printf("The values Wrong");
+	printf("The values are Wrong");
 }
 }
