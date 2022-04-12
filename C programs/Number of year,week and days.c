@@ -3,7 +3,7 @@
 void main()
 {
 	int d1,y,w,d2;
-	printf("Enter the number of days :");
+	printf("Enter the  specific number :");
 	scanf("%d",&d1);
 	
 	y=d1/365;
