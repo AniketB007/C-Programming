@@ -15,7 +15,7 @@ int main()
 	}
 	else
 	{
-		printf("The division of these numbers is NOT possible");
+		printf(" Sorry !! The division of these numbers is NOT possible");
 	}
 }
 	
