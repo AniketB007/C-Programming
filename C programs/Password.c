@@ -8,12 +8,12 @@ int main()
 	
 	if(pass==1234)
 	{
-		printf("Correct Password");
+		printf(" You Entered Correct Password");
 		
 	}
 	else
 	{
-		printf("Wrong Password");
+		printf(" You Entered Wrong Password");
 	}
 
 getch();
