@@ -12,5 +12,5 @@ int main()
 		i++;
 	
 	}
-	printf("The Factorial of the number is %d",f);
+	printf("The Factorial of the %d is %d\n",num,f);
 }
