@@ -10,6 +10,6 @@ void main()
 	printf("Enter the 3rd Number  ");
 	scanf("%d",&n3);
 	M=n1*n2*n3;
-	printf("\nMultiplication of these numbers = %d\n",M);
+	printf("\n Multiplication of these numbers = %d\n",M);
 	
 }
