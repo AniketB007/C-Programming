@@ -1,0 +1,17 @@
+#include<stdio.h>
+#include<conio.h>
+void main() 
+{
+	int n;
+	printf("Enter the  number ");
+	scanf("%d",&n);
+	
+	if(100<=n && 200>=n)
+	{
+		printf("Number is in Range");
+	}
+	else
+	{
+		printf("Number is Not in Range ");
+	}
+}
