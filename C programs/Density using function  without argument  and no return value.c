@@ -12,7 +12,7 @@ void density()
 	scanf("%f",&mass);
 	printf("Enter the volume");
 	scanf("%f",&volume);
-	density=mass*volume;
+	density=mass/volume;
 	printf(" The speed  = %f",density);
 	getch();
 }
